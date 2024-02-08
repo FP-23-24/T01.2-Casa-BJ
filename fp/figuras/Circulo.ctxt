@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=nuevoDiametro
+comment1.target=void\ cambiarTamanyo(java.lang.Integer)
+comment1.text=\r\n\ @param\ nuevoDiametro\ Nuevo\ di\u00E1metro\ en\ pixeles.\r\n\ Cambia\ el\ tama\u00F1o\ del\ c\u00EDrculo\ por\ el\ nuevo\ tama\u00F1o(en\ pixeles).\ El\ nuevo\ di\uFFFDmetro\ debe\ ser\ >\=0.\ \r\n
+numComments=2

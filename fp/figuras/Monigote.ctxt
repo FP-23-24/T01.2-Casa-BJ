@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Monigote
+comment1.params=nuevaAltura\ nuevaAnchura
+comment1.target=void\ cambiarTamanyo(java.lang.Integer,\ java.lang.Integer)
+comment1.text=\r\n\ @param\ nuevaAltura\ Nueva\ altura\ del\ monigote\r\n\ @param\ nuevaAnchura\ Nueva\ anchura\ del\ monigote\r\n\ Cambia\ el\ tama\u00F1o\ al\ nuevo\ tama\u00F1o\ (en\ pixels).\ El\ tama\u00F1o\ debe\ ser\ >\=0.\r\n
+numComments=2

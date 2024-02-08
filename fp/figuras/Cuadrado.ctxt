@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment1.params=nuevoLado
+comment1.target=void\ cambiarTamanyo(java.lang.Integer)
+comment1.text=\r\n\ @param\ nuevoLado\ Nuevo\ tama\u00F1o\ en\ pixels.\r\n\ Cambia\ el\ tam\uFFFDao\ por\ el\ nuevo\ tama\u00F1o\ (en\ pixels).\ El\ tama\u00F1o\ debe\ ser\ >\=0.\r\n
+numComments=2
